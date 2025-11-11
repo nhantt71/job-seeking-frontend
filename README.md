@@ -67,6 +67,38 @@ A modern, full-featured job seeking platform built with Next.js that connects jo
   - Push notifications
   - Real-time updates
 
+## 📸 Screenshots
+
+### Home Page
+![Home Page](./screenshots/home-page.png)
+*Landing page with job search functionality and featured companies*
+
+### Job Search Results
+![Job Search](./screenshots/job-search.png)
+*Advanced job search with filters and results*
+
+### Candidate Dashboard
+![Candidate Dashboard](./screenshots/candidate-dashboard.png)
+*Candidate profile and job recommendations*
+
+### Recruiter Dashboard
+![Recruiter Dashboard](./screenshots/recruiter-dashboard.png)
+*Recruiter interface for managing jobs and candidates*
+
+### Job Details
+![Job Details](./screenshots/job-details.png)
+*Detailed job posting with application options*
+
+### Chat Interface
+![Chat](./screenshots/chat.png)
+*Real-time messaging between candidates and recruiters*
+
+### CV Analysis
+![CV Analysis](./screenshots/cv-analysis.png)
+*CV upload and analysis interface*
+
+> **Note**: Add your actual screenshots to the `screenshots/` directory and update the paths above.
+
 ## 🛠️ Tech Stack
 
 - **Framework**: Next.js 15.0.1 (React 18.3.1)
