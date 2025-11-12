@@ -1,4 +1,4 @@
-# Job Seeking Frontend Application
+<img width="756" height="516" alt="image" src="https://github.com/user-attachments/assets/8609c7dc-6860-48ea-a3f5-835af52206de" /># Job Seeking Frontend Application
 
 A modern, full-featured job seeking platform built with Next.js that connects job seekers with employers. This application provides separate interfaces for candidates and recruiters, featuring job search, CV analysis, real-time chat, notifications, and AI-powered job/candidate recommendations.
 
@@ -70,32 +70,26 @@ A modern, full-featured job seeking platform built with Next.js that connects jo
 ## 📸 Screenshots
 
 ### Home Page
-![Home Page](./screenshots/home-page.png)
-*Landing page with job search functionality and featured companies*
+<img width="678" height="526" alt="image" src="https://github.com/user-attachments/assets/9572904e-722b-4bf1-a25b-316072c8ed3c" />
+
 
 ### Job Search Results
-![Job Search](./screenshots/job-search.png)
-*Advanced job search with filters and results*
+<img width="679" height="522" alt="image" src="https://github.com/user-attachments/assets/2e8ff8e5-2082-4c44-8913-92a0a0c5c198" />
+
 
 ### Candidate Dashboard
-![Candidate Dashboard](./screenshots/candidate-dashboard.png)
-*Candidate profile and job recommendations*
+<img width="756" height="516" alt="image" src="https://github.com/user-attachments/assets/34558090-96d8-41eb-a227-82edb820b248" />
+
 
 ### Recruiter Dashboard
-![Recruiter Dashboard](./screenshots/recruiter-dashboard.png)
-*Recruiter interface for managing jobs and candidates*
+<img width="607" height="497" alt="image" src="https://github.com/user-attachments/assets/94fe074d-abff-401b-b04d-8b52cd47873c" />
 
 ### Job Details
-![Job Details](./screenshots/job-details.png)
-*Detailed job posting with application options*
-
-### Chat Interface
-![Chat](./screenshots/chat.png)
-*Real-time messaging between candidates and recruiters*
+<img width="687" height="515" alt="image" src="https://github.com/user-attachments/assets/da056753-5ef2-4359-a326-c2081f672a58" />
 
 ### CV Analysis
-![CV Analysis](./screenshots/cv-analysis.png)
-*CV upload and analysis interface*
+<img width="605" height="592" alt="image" src="https://github.com/user-attachments/assets/73767941-abde-4785-98e4-9fadb4b5e006" />
+
 
 > **Note**: Add your actual screenshots to the `screenshots/` directory and update the paths above.
 
