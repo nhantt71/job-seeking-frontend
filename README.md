@@ -1,5 +1,3 @@
-<img width="756" height="516" alt="image" src="https://github.com/user-attachments/assets/8609c7dc-6860-48ea-a3f5-835af52206de" /># Job Seeking Frontend Application
-
 A modern, full-featured job seeking platform built with Next.js that connects job seekers with employers. This application provides separate interfaces for candidates and recruiters, featuring job search, CV analysis, real-time chat, notifications, and AI-powered job/candidate recommendations.
 
 ## 🚀 Features
